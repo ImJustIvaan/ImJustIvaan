@@ -28,7 +28,7 @@ Content Creator | Animator | GFX Artist | Devoleper (sometimes)
       <td align="center" width="100" height="100">
         <a href="https://www.youtube.com/@ImJustIvaan">
           <img
-            src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/youtube-logo-icon.png"
+            src="https://cdn-icons-png.flaticon.com/256/1384/1384060.png"
             width="48" height="48" alt="YouTube" />
         </a>
       </td>
